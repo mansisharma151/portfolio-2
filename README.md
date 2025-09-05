@@ -1,2 +1,2 @@
-# portfolio-2
+# portfolio
 MY FIRST GUTHUB PROJECT
