@@ -29,7 +29,7 @@ My goal is to join companies like **Google or TCS** with a strong career in tech
 ## 📫 Contact  
 - 💌 Email: [getadevi99966@gmail.com](mailto:getadevi99966@gmail.com)  
 - 🔗 GitHub: [github.com/mansisharma151](https://github.com/mansisharma151)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 💼 LinkedIn: [www.linkedin.com/in/mansi-sharma-251b73382](www.linkedin.com/in/mansi-sharma-251b73382)  
 
 ---
 
