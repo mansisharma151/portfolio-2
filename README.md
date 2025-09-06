@@ -1,44 +1,109 @@
-# 🚀 Mansi Sharma – Portfolio  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mansi Sharma - Portfolio 🚀</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+      background: #161b22;
+      border-bottom: 2px solid #30363d;
+    }
+    header h1 {
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #58a6ff;
+      border-bottom: 2px solid #30363d;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 0.5rem 0;
+    }
+    .emoji {
+      margin-right: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      border-top: 2px solid #30363d;
+      margin-top: 2rem;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
-Welcome to my digital playground!  
-I'm **Mansi Sharma**, a 2nd-year Computer Science student at Adamas University, passionate about building interactive and creative web experiences.  
+  <header>
+    <h1>Mansi Sharma – Portfolio 🚀</h1>
+    <p>💻 Aspiring Software Engineer | 🌍 Tech Enthusiast | 📚 Lifelong Learner</p>
+  </header>
 
----
+  <section>
+    <h2>✨ About Me</h2>
+    <p>
+      Hi, I’m <strong>Mansi Sharma</strong>, a 2nd-year Computer Science student at Adamas University.  
+      I’m passionate about <b>Web Development, AI, Data Science, and Cybersecurity</b>.  
+      My goal is to join companies like <b>Google or TCS</b> with a strong career in tech. 🌟
+    </p>
+  </section>
 
-## ✨ About Me  
-- 🎓 2nd Year Computer Science student @ Adamas University  
-- 💻 Aspiring Software Engineer | Problem-Solving Enthusiast  
-- 🌱 Currently learning: **DBMS, DSA, Web Development**  
-- 🎯 Goal: Contribute to open-source & build impactful projects  
+  <section>
+    <h2>🛠 Tech Stack</h2>
+    <ul>
+      <li>🌐 HTML, CSS, JavaScript</li>
+      <li>⚙️ C, C++ (DSA basics)</li>
+      <li>📊 Python (Data Science basics)</li>
+      <li>☁️ Git & GitHub</li>
+    </ul>
+  </section>
 
----
+  <section>
+    <h2>📂 Projects</h2>
+    <ul>
+      <li>🌟 <b>Portfolio Website</b> – This site showcasing my skills and journey.</li>
+      <li>📝 <b>Quiz App</b> – A fun quiz project built in HTML, CSS, and JS.</li>
+      <li>📊 <b>Data Visualizer</b> – A Python project for simple data visualization.</li>
+    </ul>
+  </section>
 
-## 🛠️ Tech Stack  
-<p>
-  <img src="https://img.shields.io/badge/C%20Language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+  <section>
+    <h2>📫 Contact</h2>
+    <p>
+      💌 Email: <a href="mailto:mansisharma@example.com">mansisharma@example.com</a><br>
+      🔗 GitHub: <a href="https://github.com/your-username" target="_blank">github.com/your-username</a><br>
+      💼 LinkedIn: <a href="https://linkedin.com/in/your-link" target="_blank">linkedin.com/in/your-link</a>
+    </p>
+  </section>
 
----
+  <footer>
+    <p>Made with ❤️ by Mansi Sharma</p>
+  </footer>
 
-## 📂 Projects  
-- 🌐 **[Portfolio Website](https://yourusername.github.io/portfolio/)** – My first personal portfolio hosted on GitHub Pages  
-- 📊 **DBMS Mini Project** – (Coming soon 🚀)  
-- 🤖 **AI & ML Experiments** – (Coming soon 🚧)  
-
----
-
-## 📊 GitHub Stats  
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-
----
-
-## 🔗 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: yourmail@example.com  
-- 🌐 [Portfolio Website](https://yourusername.github.io/portfolio/)  
+</body>
+</html>
