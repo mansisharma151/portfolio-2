@@ -27,8 +27,8 @@ My goal is to join companies like **Google or TCS** with a strong career in tech
 ---
 
 ## 📫 Contact  
-- 💌 Email: [mansisharma@example.com](mailto:mansisharma@example.com)  
-- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)  
+- 💌 Email: [getadevi99966@gmail.com](mailto:getadevi99966@gmail.com)  
+- 🔗 GitHub: [github.com/mansisharma151](https://github.com/mansisharma151)  
 - 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
 
 ---
